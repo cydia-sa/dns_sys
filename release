@@ -1,0 +1,9 @@
+
+    cydia-sa :Origin
+   dns_sys :Label
+    Suite: stable
+    Version: 10.0
+    Codename: ios
+    Architectures: iphoneos-arm
+    Components: main
+  @DNS_Sys test :Description
